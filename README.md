@@ -8,7 +8,7 @@ This may help you in determing how rare a single attribute or entire Mech is.
 
 **NOTE: This table is just to help you get an idea of how rare an individual attribute is. Since we
 do not have all our Mechs minted / supply reduced, this rarity is not final and will depend on how many is burned / airdropped.
-The final rarity for an individual mech will also be more complex and factor in other calculations. **
+The final rarity for an individual mech will also be more complex and factor in other calculations.**
 
 # Table
 ## Background
